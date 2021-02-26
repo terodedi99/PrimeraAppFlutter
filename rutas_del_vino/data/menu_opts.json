@@ -1,0 +1,30 @@
+{
+    "nombreApp" : "Rutas del Vino",
+    "rutas" : [
+        {
+            "ruta" : "localidades",
+            "icon" : "location_searching",
+            "texto": "Localidades"
+        },
+        {
+            "ruta" : "historial",
+            "icon" : "history",
+            "texto": "Historial de circuitos"
+        },
+        {
+            "ruta" : "grupos",
+            "icon" : "group",
+            "texto": "Grupos de turistas"
+        },
+        {
+            "ruta" : "guias",
+            "icon" : "person_pin_circle",
+            "texto": "Guías turísticos"
+        },
+        {
+            "ruta" : "login",
+            "icon" : "login",
+            "texto": "Login"
+        }
+    ]
+}
